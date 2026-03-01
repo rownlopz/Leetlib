@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/rownlopz/Leetlib/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [3340-check-balanced-string](https://github.com/rownlopz/Leetlib/tree/master/3340-check-balanced-string) |
 <!---LeetCode Topics End-->

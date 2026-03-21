@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3110-score-of-a-string](https://github.com/rownlopz/Leetlib/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/rownlopz/Leetlib/tree/master/3340-check-balanced-string) |
 ## Math
 |  |

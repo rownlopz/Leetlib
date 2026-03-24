@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rownlopz/Leetlib/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/rownlopz/Leetlib/tree/master/0349-intersection-of-two-arrays) |
 | [1672-richest-customer-wealth](https://github.com/rownlopz/Leetlib/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/rownlopz/Leetlib/tree/master/1920-build-array-from-permutation) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rownlopz/Leetlib/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/rownlopz/Leetlib/tree/master/1672-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/rownlopz/Leetlib/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/rownlopz/Leetlib/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/rownlopz/Leetlib/tree/master/1920-build-array-from-permutation) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rownlopz/Leetlib/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/rownlopz/Leetlib/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rownlopz/Leetlib/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rownlopz/Leetlib/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rownlopz/Leetlib/tree/master/0349-intersection-of-two-arrays) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/rownlopz/Leetlib/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rownlopz/Leetlib/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rownlopz/Leetlib/tree/master/0013-roman-to-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rownlopz/Leetlib/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/rownlopz/Leetlib/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -55,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/rownlopz/Leetlib/tree/master/1920-build-array-from-permutation) |
+## Counting
+|  |
+| ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/rownlopz/Leetlib/tree/master/3591-check-if-any-element-has-prime-frequency) |
+## Number Theory
+|  |
+| ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/rownlopz/Leetlib/tree/master/3591-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->

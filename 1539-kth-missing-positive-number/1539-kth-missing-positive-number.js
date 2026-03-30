@@ -9,8 +9,7 @@ var findKthPositive = function(arr, k) {
         if(arr.includes(i)){
             continue;
         }
-        else
-        {
+        else{
             mis.push(i);
         }
     }

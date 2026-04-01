@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rownlopz/Leetlib/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/rownlopz/Leetlib/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/rownlopz/Leetlib/tree/master/0242-valid-anagram) |
 | [3110-score-of-a-string](https://github.com/rownlopz/Leetlib/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/rownlopz/Leetlib/tree/master/3340-check-balanced-string) |

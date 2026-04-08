@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rownlopz/Leetlib/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/rownlopz/Leetlib/tree/master/0506-relative-ranks) |
 | [1480-running-sum-of-1d-array](https://github.com/rownlopz/Leetlib/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/rownlopz/Leetlib/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/rownlopz/Leetlib/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/rownlopz/Leetlib/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/rownlopz/Leetlib/tree/master/1920-build-array-from-permutation) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rownlopz/Leetlib/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rownlopz/Leetlib/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rownlopz/Leetlib/tree/master/0349-intersection-of-two-arrays) |
+| [1512-number-of-good-pairs](https://github.com/rownlopz/Leetlib/tree/master/1512-number-of-good-pairs) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/rownlopz/Leetlib/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3668-restore-finishing-order](https://github.com/rownlopz/Leetlib/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rownlopz/Leetlib/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rownlopz/Leetlib/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/rownlopz/Leetlib/tree/master/0066-plus-one) |
+| [1512-number-of-good-pairs](https://github.com/rownlopz/Leetlib/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/rownlopz/Leetlib/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/rownlopz/Leetlib/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rownlopz/Leetlib/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/rownlopz/Leetlib/tree/master/1512-number-of-good-pairs) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/rownlopz/Leetlib/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Number Theory
 |  |

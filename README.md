@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rownlopz/Leetlib/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/rownlopz/Leetlib/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3668-restore-finishing-order](https://github.com/rownlopz/Leetlib/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/rownlopz/Leetlib/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/rownlopz/Leetlib/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rownlopz/Leetlib/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rownlopz/Leetlib/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3701-compute-alternating-sum](https://github.com/rownlopz/Leetlib/tree/master/3701-compute-alternating-sum) |
 ## Counting
 |  |
 | ------- |

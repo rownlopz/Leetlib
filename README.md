@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rownlopz/Leetlib/tree/master/0066-plus-one) |
 | [1512-number-of-good-pairs](https://github.com/rownlopz/Leetlib/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/rownlopz/Leetlib/tree/master/1688-count-of-matches-in-tournament) |
+| [2413-smallest-even-multiple](https://github.com/rownlopz/Leetlib/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/rownlopz/Leetlib/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/rownlopz/Leetlib/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rownlopz/Leetlib/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/rownlopz/Leetlib/tree/master/2413-smallest-even-multiple) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/rownlopz/Leetlib/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Prefix Sum
 |  |

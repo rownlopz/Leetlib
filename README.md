@@ -119,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rownlopz/Leetlib/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/rownlopz/Leetlib/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->

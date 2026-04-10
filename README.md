@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rownlopz/Leetlib/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rownlopz/Leetlib/tree/master/2733-neither-minimum-nor-maximum) |
 | [2942-find-words-containing-character](https://github.com/rownlopz/Leetlib/tree/master/2942-find-words-containing-character) |
+| [2951-find-the-peaks](https://github.com/rownlopz/Leetlib/tree/master/2951-find-the-peaks) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rownlopz/Leetlib/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rownlopz/Leetlib/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/rownlopz/Leetlib/tree/master/3467-transform-array-by-parity) |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/rownlopz/Leetlib/tree/master/0328-odd-even-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/rownlopz/Leetlib/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->

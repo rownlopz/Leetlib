@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rownlopz/Leetlib/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/rownlopz/Leetlib/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3668-restore-finishing-order](https://github.com/rownlopz/Leetlib/tree/master/3668-restore-finishing-order) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/rownlopz/Leetlib/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/rownlopz/Leetlib/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/rownlopz/Leetlib/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/rownlopz/Leetlib/tree/master/3340-check-balanced-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/rownlopz/Leetlib/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
 | ------- |

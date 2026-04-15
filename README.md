@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rownlopz/Leetlib/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rownlopz/Leetlib/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rownlopz/Leetlib/tree/master/0349-intersection-of-two-arrays) |
+| [0771-jewels-and-stones](https://github.com/rownlopz/Leetlib/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/rownlopz/Leetlib/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rownlopz/Leetlib/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/rownlopz/Leetlib/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rownlopz/Leetlib/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/rownlopz/Leetlib/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/rownlopz/Leetlib/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/rownlopz/Leetlib/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rownlopz/Leetlib/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/rownlopz/Leetlib/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rownlopz/Leetlib/tree/master/2011-final-value-of-variable-after-performing-operations) |

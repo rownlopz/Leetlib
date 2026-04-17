@@ -6,8 +6,8 @@
 var kidsWithCandies = function(candies, extraCandies) {
     let maxx = Math.max(...candies);
     let result = [];
-    for(i=0;i<candies.length;i++){
-        if(candies[i]+extraCandies >= maxx){
+    for(let n of candies){
+        if(n+extraCandies >= maxx){
             result.push(true);
         }
         else{

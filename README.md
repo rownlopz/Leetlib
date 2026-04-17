@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rownlopz/Leetlib/tree/master/0066-plus-one) |
 | [1512-number-of-good-pairs](https://github.com/rownlopz/Leetlib/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/rownlopz/Leetlib/tree/master/1688-count-of-matches-in-tournament) |
+| [2235-add-two-integers](https://github.com/rownlopz/Leetlib/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/rownlopz/Leetlib/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/rownlopz/Leetlib/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/rownlopz/Leetlib/tree/master/2769-find-the-maximum-achievable-number) |

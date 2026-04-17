@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rownlopz/Leetlib/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/rownlopz/Leetlib/tree/master/0506-relative-ranks) |
 | [0905-sort-array-by-parity](https://github.com/rownlopz/Leetlib/tree/master/0905-sort-array-by-parity) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/rownlopz/Leetlib/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/rownlopz/Leetlib/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rownlopz/Leetlib/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/rownlopz/Leetlib/tree/master/1512-number-of-good-pairs) |

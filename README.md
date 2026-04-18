@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/rownlopz/Leetlib/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rownlopz/Leetlib/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/rownlopz/Leetlib/tree/master/1108-defanging-an-ip-address) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rownlopz/Leetlib/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rownlopz/Leetlib/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/rownlopz/Leetlib/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/rownlopz/Leetlib/tree/master/3110-score-of-a-string) |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/rownlopz/Leetlib/tree/master/2951-find-the-peaks) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rownlopz/Leetlib/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->

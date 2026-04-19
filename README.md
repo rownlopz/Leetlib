@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/rownlopz/Leetlib/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rownlopz/Leetlib/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rownlopz/Leetlib/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rownlopz/Leetlib/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rownlopz/Leetlib/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rownlopz/Leetlib/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/rownlopz/Leetlib/tree/master/2942-find-words-containing-character) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/rownlopz/Leetlib/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/rownlopz/Leetlib/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/rownlopz/Leetlib/tree/master/2469-convert-the-temperature) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rownlopz/Leetlib/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/rownlopz/Leetlib/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/rownlopz/Leetlib/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rownlopz/Leetlib/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |

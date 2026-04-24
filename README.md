@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/rownlopz/Leetlib/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/rownlopz/Leetlib/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/rownlopz/Leetlib/tree/master/1539-kth-missing-positive-number) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rownlopz/Leetlib/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/rownlopz/Leetlib/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/rownlopz/Leetlib/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rownlopz/Leetlib/tree/master/1929-concatenation-of-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/rownlopz/Leetlib/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rownlopz/Leetlib/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/rownlopz/Leetlib/tree/master/1108-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rownlopz/Leetlib/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rownlopz/Leetlib/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rownlopz/Leetlib/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/rownlopz/Leetlib/tree/master/2942-find-words-containing-character) |

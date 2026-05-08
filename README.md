@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rownlopz/Leetlib/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/rownlopz/Leetlib/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/rownlopz/Leetlib/tree/master/0258-add-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rownlopz/Leetlib/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/rownlopz/Leetlib/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/rownlopz/Leetlib/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/rownlopz/Leetlib/tree/master/2235-add-two-integers) |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rownlopz/Leetlib/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rownlopz/Leetlib/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->

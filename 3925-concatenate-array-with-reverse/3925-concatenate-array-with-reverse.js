@@ -3,5 +3,5 @@
  * @return {number[]}
  */
 var concatWithReverse = function(nums) {
-    return [...nums, ...[...nums].reverse()];
+    return [...nums, ...nums.reverse()];
 };

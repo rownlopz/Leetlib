@@ -4,12 +4,9 @@
  */
 var addDigits = function(num) {
     while(num>=10){
-    let sum = 0;
-    let n = num.toString().split('');
-        for(let i of n){
-            sum += Number(i);
-        }
-        num = sum;
+        num = String(num)
+        .split('')
+        .reduce((acc,cur) => acc + Number(cur),0);
     }
     return num;
-};
+}
